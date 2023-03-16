@@ -1,0 +1,19 @@
+{
+  "household-members": [
+    {
+      "id": 1,
+      "name": "Annie",
+      "fav": "Dining out"
+    },
+    {
+      "name": "Pig",
+      "fav": "Swimming",
+      "id": 2
+    },
+    {
+      "name": "Flipbo",
+      "fav": "Cartwheels",
+      "id": 3
+    }
+  ]
+}
